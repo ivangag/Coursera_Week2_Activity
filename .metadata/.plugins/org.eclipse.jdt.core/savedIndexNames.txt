@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+D:\Android\dev\Coursera_Week 2_Activity\.metadata\.plugins\org.eclipse.jdt.core
+1395924325.index
+3745866538.index

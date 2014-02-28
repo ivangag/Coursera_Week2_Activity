@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Coursera_Week 2_Activity.iml" filepath="$PROJECT_DIR$/Coursera_Week 2_Activity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MapLocation/MapLocation.iml" filepath="$PROJECT_DIR$/MapLocation/MapLocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MapLocationFromContacts/MapLocationFromContacts.iml" filepath="$PROJECT_DIR$/MapLocationFromContacts/MapLocationFromContacts.iml" />
+    </modules>
+  </component>
+</project>
+
